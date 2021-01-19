@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 07 Oefeningen TDD\\FizzBuzz\\FizzBuzz.csproj": {}
+  },
+  "projects": {
+    "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 07 Oefeningen TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 07 Oefeningen TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj",
+        "projectName": "FizzBuzz.Library",
+        "projectPath": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 07 Oefeningen TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj",
+        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
+        "outputPath": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 07 Oefeningen TDD\\FizzBuzz.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.111\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 07 Oefeningen TDD\\FizzBuzz\\FizzBuzz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 07 Oefeningen TDD\\FizzBuzz\\FizzBuzz.csproj",
+        "projectName": "FizzBuzz",
+        "projectPath": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 07 Oefeningen TDD\\FizzBuzz\\FizzBuzz.csproj",
+        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
+        "outputPath": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 07 Oefeningen TDD\\FizzBuzz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 07 Oefeningen TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj": {
+                "projectPath": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 07 Oefeningen TDD\\FizzBuzz.Library\\FizzBuzz.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.111\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
