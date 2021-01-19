@@ -1,0 +1,8 @@
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 07 Oefeningen TDD\Conways.Library\bin\Debug\netcoreapp3.1\Conways.Library.deps.json
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 07 Oefeningen TDD\Conways.Library\bin\Debug\netcoreapp3.1\Conways.Library.dll
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 07 Oefeningen TDD\Conways.Library\bin\Debug\netcoreapp3.1\Conways.Library.pdb
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.csprojAssemblyReference.cache
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.AssemblyInfoInputs.cache
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.AssemblyInfo.cs
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.dll
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 07 Oefeningen TDD\Conways.Library\obj\Debug\netcoreapp3.1\Conways.Library.pdb
