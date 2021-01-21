@@ -1,0 +1,17 @@
+D:\AP HBO5_2\Periode1\Software_Testing\software_testing_brentdardenne\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\bin\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.deps.json
+D:\AP HBO5_2\Periode1\Software_Testing\software_testing_brentdardenne\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\bin\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.dll
+D:\AP HBO5_2\Periode1\Software_Testing\software_testing_brentdardenne\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\bin\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.pdb
+D:\AP HBO5_2\Periode1\Software_Testing\software_testing_brentdardenne\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\obj\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.csprojAssemblyReference.cache
+D:\AP HBO5_2\Periode1\Software_Testing\software_testing_brentdardenne\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\obj\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.AssemblyInfoInputs.cache
+D:\AP HBO5_2\Periode1\Software_Testing\software_testing_brentdardenne\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\obj\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.AssemblyInfo.cs
+D:\AP HBO5_2\Periode1\Software_Testing\software_testing_brentdardenne\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\obj\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.csproj.CoreCompileInputs.cache
+D:\AP HBO5_2\Periode1\Software_Testing\software_testing_brentdardenne\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\obj\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.dll
+D:\AP HBO5_2\Periode1\Software_Testing\software_testing_brentdardenne\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\obj\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.pdb
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\bin\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.deps.json
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\bin\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.dll
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\bin\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.pdb
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\obj\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.csprojAssemblyReference.cache
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\obj\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.AssemblyInfoInputs.cache
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\obj\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.AssemblyInfo.cs
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\obj\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.dll
+F:\Gebruiker\Documents\AP 20-21\20-21 Software Testing\PRO2_ST_LAB\PRO2_ST_LAB_Working\Les 12 SpecFlowCalculator\Les 12 SpecFlowCalculator\obj\Debug\netcoreapp3.1\Les 12 SpecFlowCalculator.pdb

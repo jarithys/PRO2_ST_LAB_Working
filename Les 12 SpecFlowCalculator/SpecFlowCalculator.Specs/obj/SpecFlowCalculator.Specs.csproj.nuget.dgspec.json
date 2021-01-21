@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 12 SpecFlowCalculator\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj": {}
+  },
+  "projects": {
+    "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 12 SpecFlowCalculator\\Les 12 SpecFlowCalculator\\Les 12 SpecFlowCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 12 SpecFlowCalculator\\Les 12 SpecFlowCalculator\\Les 12 SpecFlowCalculator.csproj",
+        "projectName": "Les 12 SpecFlowCalculator",
+        "projectPath": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 12 SpecFlowCalculator\\Les 12 SpecFlowCalculator\\Les 12 SpecFlowCalculator.csproj",
+        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
+        "outputPath": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 12 SpecFlowCalculator\\Les 12 SpecFlowCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.111\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 12 SpecFlowCalculator\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 12 SpecFlowCalculator\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj",
+        "projectName": "SpecFlowCalculator.Specs",
+        "projectPath": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 12 SpecFlowCalculator\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj",
+        "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
+        "outputPath": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 12 SpecFlowCalculator\\SpecFlowCalculator.Specs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 12 SpecFlowCalculator\\Les 12 SpecFlowCalculator\\Les 12 SpecFlowCalculator.csproj": {
+                "projectPath": "F:\\Gebruiker\\Documents\\AP 20-21\\20-21 Software Testing\\PRO2_ST_LAB\\PRO2_ST_LAB_Working\\Les 12 SpecFlowCalculator\\Les 12 SpecFlowCalculator\\Les 12 SpecFlowCalculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.5.14, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.5.186, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.111\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
